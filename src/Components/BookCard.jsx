@@ -32,7 +32,7 @@ const title = (book?.title || "No Title")
   <div className="flex items-center justify-between flex-wrap gap-2 mt-2">
     <div className="w-full text-center">
       <h5 className="text-xl font-bold text-inherit">{title}</h5>
-      <p className="text-sm text-gray-500">{author}</p>
+      <p className="text-sm text-inherit0">{author}</p>
     </div>
     
     <div className="w-full flex justify-center items-center gap-4 mt-2">
