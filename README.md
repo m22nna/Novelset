@@ -62,3 +62,41 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/novelset.git
+
+Navigate to the project folder:
+
+```bash
+cd novelset
+
+Install dependencies:
+
+```bash
+npm install
+
+Run the development server:
+
+```bash
+npm run dev
+
+---
+
+## 🌐 Deployment
+
+The project can be deployed using platforms like:
+- Vercel
+- Netlify
+
+--
+
+## 📌 Future Improvements
+
+- Add book reviews and ratings
+- Improve search functionality
+- Add user profiles
+- Integrate book APIs for more content
+
+---
+
+## 👩‍💻 Author
+
+Developed by M22nna
