@@ -1,16 +1,115 @@
-# React + Vite
+#📚 Novelset
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Novelset is a modern web application for discovering and exploring novels online.
+The platform allows users to browse books, view details, and interact with the application through a clean and responsive interface.
 
-Currently, two official plugins are available:
+The project focuses on building a modern front-end experience using React and integrating authentication and backend services.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##🚀 Features
 
-## React Compiler
+-📖 Browse and explore novels
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-🔍 Search functionality for books
 
-## Expanding the ESLint configuration
+-👤 User authentication (Register / Login)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-🔔 Notification system for user actions
+
+-🎨 Responsive and modern UI
+
+-⚡ Fast performance with optimized frontend tools
+
+##🛠️ Technologies Used
+###Frontend
+
+-⚛️ React — JavaScript library for building user interfaces
+
+-⚡ Vite — Fast development environment for React projects
+
+-🎨 Tailwind CSS — Utility-first CSS framework for styling
+
+###UI Components
+
+-💠 Flowbite React — Prebuilt UI components for React with Tailwind
+
+###Backend & Authentication
+
+-🔐 Supabase — Backend as a service providing authentication and database
+
+##3Notifications
+
+-🔔 React Hot Toast — Toast notifications for feedback messages
+
+###Routing
+
+-🔁 React Router — Navigation and routing between pages
+
+##📂 Project Structure
+src
+ ├── components
+ │   ├── Navbar.jsx
+ │   ├── Footer.jsx
+ │   ├── Card.jsx
+ │
+ ├── pages
+ │   ├── Home.jsx
+ │   ├── Login.jsx
+ │   ├── Register.jsx
+ │
+ ├── App.jsx
+ └── main.jsx
+##🔐 Authentication
+
+Authentication is implemented using Supabase Auth.
+Users can:
+
+-Register new accounts
+
+-Login with their credentials
+
+-Access protected content after authentication
+
+##🔔 Notifications
+
+User actions such as login, registration, and errors trigger toast notifications using React Hot Toast.
+
+
+##Clone the repository:
+
+-git clone https://github.com/your-username/novelset.git
+
+##Navigate to the project folder:
+
+-cd novelset
+
+##Install dependencies:
+
+-npm install
+
+##Run the development server:
+
+-npm run dev
+
+##🌐 Deployment
+
+The project can be deployed using platforms like:
+
+-Vercel
+
+-Netlify
+
+
+
+##📌 Future Improvements
+
+-Add book reviews and ratings
+
+-Improve search functionality
+
+-Add user profiles
+
+-Integrate book APIs for more content
+
+##👩‍💻 Author
+
+Developed by M22nna 
