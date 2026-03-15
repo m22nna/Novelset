@@ -59,16 +59,16 @@ User actions such as login, registration, and errors trigger **toast notificatio
 ## 💻 Installation
 
 Clone the repository:  
-git clone https://github.com/your-username/novelset.git
+- git clone https://github.com/your-username/novelset.git
 
 Navigate to the project folder:  
-cd novelset
+- cd novelset
 
 Install dependencies:  
-npm install
+- npm install
 
 Run the development server:  
-npm run dev
+- npm run dev
 
 ---
 
