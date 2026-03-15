@@ -58,47 +58,37 @@ User actions such as login, registration, and errors trigger **toast notificatio
 
 ## 💻 Installation
 
-Clone the repository:
-
-```bash
+Clone the repository:  
 git clone https://github.com/your-username/novelset.git
 
-Navigate to the project folder:
-
-```bash
+Navigate to the project folder:  
 cd novelset
 
-Install dependencies:
-
-```bash
+Install dependencies:  
 npm install
 
-Run the development server:
-
-```bash
+Run the development server:  
 npm run dev
-
-```bash
 
 ---
 
 ## 🌐 Deployment
 
-The project can be deployed using platforms like:
-- Vercel
+The project can be deployed using platforms like:  
+- Vercel  
 - Netlify
 
---
+---
 
 ## 📌 Future Improvements
 
-- Add book reviews and ratings
-- Improve search functionality
-- Add user profiles
+- Add book reviews and ratings  
+- Improve search functionality  
+- Add user profiles  
 - Integrate book APIs for more content
 
 ---
 
 ## 👩‍💻 Author
 
-Developed by M22nna
+Developed by **M22nna**
