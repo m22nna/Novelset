@@ -1,7 +1,8 @@
+@import "flowbite/dist/flowbite.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "flowbite/dist/flowbite.css";
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
